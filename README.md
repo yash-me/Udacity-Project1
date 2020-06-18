@@ -4,21 +4,21 @@
 
 ## HOME
 ------
-![alt text](https://github.com/vishakhasingh4/React-MyReads-personal-library/blob/master/MyReads1.png)
+![alt text](https://raw.githubusercontent.com/yash-me/Udacity-Project1/master/MyReads1.png)
 
 -------
-![alt text](https://github.com/vishakhasingh4/React-MyReads-personal-library/blob/master/MyReads2.png)
+![alt text](https://raw.githubusercontent.com/yash-me/Udacity-Project1/master/MyReads2.png)
 
 ------
 
 ## SEARCH
 ------
 
-![alt text](https://github.com/vishakhasingh4/React-MyReads-personal-library/blob/master/MyRead_Search.png)
+![alt text](https://raw.githubusercontent.com/yash-me/Udacity-Project1/master/MyRead_Search.png)
 
 To get started developing right away:
 
-* clone the Project - [https://github.com/vishakhasingh4/React-MyReads-personal-library.git]
+* clone the Project - [https://github.com/yash-me/Udacity-Project1]
 * install all project dependencies with - `npm install`
 * install the dependencies - npm install - `--save react-router-dom`
 * start the development server with - `npm start`
